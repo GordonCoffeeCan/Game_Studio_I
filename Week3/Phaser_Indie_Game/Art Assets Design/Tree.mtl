@@ -1,0 +1,77 @@
+newmtl Enemy_MatSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Enemy_colormap.jpg
+bump Enemy_normalmap.tga -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Hero_MatSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Hero_colormap.jpg
+bump Hero_normalmap.tga -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Spear_MatSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Spear_colormap.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Sword_MatSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Sword_colormap.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.78 0.78 0.78
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fence_colormap.jpg
+bump Fence_normalmap.jpg -bm 1
+Ni 1.00
+newmtl leaf_MatSG
+illum 4
+Kd 0.04 0.22 0.07
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl platform_level01_MatSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd platform_level02.jpg
+bump platform_level01_normal.jpg -bm 1
+Ni 1.00
+newmtl tree_matSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tree_colormap.jpg
+bump tree_normalmap.jpg -bm 1
+Ni 1.00
