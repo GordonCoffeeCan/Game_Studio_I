@@ -1,0 +1,17 @@
+1: You need a web browser. Please install Google Chrome (https://www.google.com/chrome/browser/) if you don’t already have it. For game development, Chrome offers certain advantages: it has gamepad support, it has great internal developer tools, and it is guaranteed to work with Phaser.
+
+2: You need a server account. For security reasons, your browser can’t load files in the same way it loads websites, so your game has to be ‘served’ to your browser by a server. 
+
+I’ve set up a live webserver that we’ll be doing most of our development on. The address is: http://gcserver.magnet.nyu.edu
+
+You have a personal folder on the server that is private, and a subfolder called ‘public_html’ that is visible to the whole world. You’ll attach your folder to your computer as a network drive, and then you can just write code and save art and music to that drive and it will be available on the server.
+
+Don't change anything in there for now - we’ll go through the setup process in class. But for class you'll need your login details. Here they are:
+
+Username: gordon
+
+Password (randomly generated): riddenhunger
+
+Directory: http://gcserver.magnet.nyu.edu/~gordon
+
+If I got your name wrong, let me know and I can make you a new account with the right name.
