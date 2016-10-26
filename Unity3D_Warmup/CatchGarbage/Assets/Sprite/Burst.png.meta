@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: 3afe64058075ab84a985d4e3d547571e
+timeCreated: 1477367232
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Burst_0
+    21300002: Burst_1
+    21300004: Burst_2
+    21300006: Burst_3
+    21300008: Burst_4
+    21300010: Burst_5
+    21300012: Burst_6
+    21300014: Burst_7
+    21300016: Burst_8
+    21300018: Burst_9
+    21300020: Burst_10
+    21300022: Burst_11
+    21300024: Burst_12
+    21300026: Burst_13
+    21300028: Burst_14
+    21300030: Burst_15
+    21300032: Burst_16
+    21300034: Burst_17
+    21300036: Burst_18
+    21300038: Burst_19
+    21300040: Burst_20
+    21300042: Burst_21
+    21300044: Burst_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Burst_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1810
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1810
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_2
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1810
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1572
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_4
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1572
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_5
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1572
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1334
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1334
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_8
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1334
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1096
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1096
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_11
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1096
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 858
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_13
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 858
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_14
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 858
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_16
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 620
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_17
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 620
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_19
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 382
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_20
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 382
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burst_22
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 144
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

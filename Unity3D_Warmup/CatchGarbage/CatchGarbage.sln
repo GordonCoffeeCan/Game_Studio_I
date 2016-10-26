@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{352974B2-6658-235E-83FC-CFB4708F006B}") = "CatchGarbage", "Assembly-CSharp.csproj", "{7CE70961-3117-0C2A-BB09-E6A992BC8E9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CE70961-3117-0C2A-BB09-E6A992BC8E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE70961-3117-0C2A-BB09-E6A992BC8E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE70961-3117-0C2A-BB09-E6A992BC8E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE70961-3117-0C2A-BB09-E6A992BC8E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
