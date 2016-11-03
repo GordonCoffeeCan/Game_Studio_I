@@ -3,25 +3,25 @@ using System.Collections;
 
 public class TankController : MonoBehaviour {
 	public float speed = 5;
+    public float angularSpeed = 5;
+    public int tankNump = 1;
 
 	private Transform myTank;
-	private CharacterController myController;
-
-	private Vector3 moveDirection;
+    private Rigidbody rigidbody;
 
 	// Use this for initialization
 	void Start () {
 		myTank = this.transform;
-		myController = this.GetComponent<CharacterController> ();
-		moveDirection = Vector3.zero;
+        rigidbody = this.GetComponent<Rigidbody>();
 	}
+
+    void Update() {
+
+    }
 	
 	// Update is called once per frame
-	void Update () {
-		moveDirection = new Vector3 (Input.GetAxis ("Horizontal"), 0, Input.GetAxis ("Vertical"));
-		moveDirection = transform.TransformDirection (moveDirection);
-		moveDirection *= speed;
-		myController.Move (moveDirection * Time.deltaTime);
-		
+	void FixedUpdate () {
+        rigidbody.velocity = myTank.forward * Input.GetAxis("VerticalControl" + tankNump) * speed;
+        rigidbody.angularVelocity = myTank.up * Input.GetAxis("HorizontalControl" + tankNump) * angularSpeed;
 	}
 }
