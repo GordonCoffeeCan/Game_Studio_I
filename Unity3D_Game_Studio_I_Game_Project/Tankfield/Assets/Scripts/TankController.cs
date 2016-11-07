@@ -4,7 +4,7 @@ using System.Collections;
 public class TankController : MonoBehaviour {
 	public float speed = 5;
     public float angularSpeed = 5;
-    public int tankNump = 1;
+    public int tankNum = 1;
 
 	private Transform myTank;
     private Rigidbody rigidbody;
@@ -21,7 +21,7 @@ public class TankController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void FixedUpdate () {
-        rigidbody.velocity = myTank.forward * Input.GetAxis("VerticalControl" + tankNump) * speed;
-        rigidbody.angularVelocity = myTank.up * Input.GetAxis("HorizontalControl" + tankNump) * angularSpeed;
+        rigidbody.velocity = myTank.forward * Input.GetAxis("VerticalControl" + tankNum) * speed;
+        rigidbody.angularVelocity = myTank.up * Input.GetAxis("HorizontalControl" + tankNum) * angularSpeed;
 	}
 }
