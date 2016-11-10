@@ -11,13 +11,13 @@ public class TankController : MonoBehaviour {
     private Rigidbody _rigidbody;
     private Transform cannonBallSpawn;
     private float fireForce;
-    private float fireAccumulateForce = 3.5f;
+    private float fireAccumulateForce = 2.5f;
     private float reloadTimer;
     private float fireTimer;
 
-    private float _fireForce = 35f;
+    private float _fireForce = 10.5f;
     private float _reloadTimer = 0.65f;
-    private float _fireTimer = 0.8f;
+    private float _fireTimer = 0.5f;
 
     private KeyCode fireKey;
 
@@ -28,6 +28,7 @@ public class TankController : MonoBehaviour {
 
         cannonBallSpawn = transform.FindChild("CannonBallSpawn");
 
+		fireTimer = _fireTimer;
         fireForce = _fireForce;
 
         if (tankNum == 1) {
