@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 4ad984ad8c8324c3badbd5afc879dee0
-timeCreated: 1478796800
+guid: 1de9b49d0e6a1ed46bc6c8ca24acc30e
+timeCreated: 1478924631
 licenseType: Pro
 ModelImporter:
   serializedVersion: 19
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Terrain_LowPoly
+    4300000: Terrain_LowPoly2:headusOBJexport
   materials:
     importMaterials: 1
     materialName: 0
