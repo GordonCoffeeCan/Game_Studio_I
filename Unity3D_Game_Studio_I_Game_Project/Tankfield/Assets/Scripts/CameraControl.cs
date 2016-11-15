@@ -6,6 +6,7 @@ public class CameraControl : MonoBehaviour {
 	public float dampTime = 0.2f;
 	public float screenEdgeBuffer = 4;
 	public float minSize = 6.5f;
+    public bool gameOver = false;
 
 	public Transform[] targets;
 
@@ -30,9 +31,11 @@ public class CameraControl : MonoBehaviour {
 	}
 
 	private void FixedUpdate(){
-		Move ();
-		Zoom ();
-	}
+        if (gameOver == false) {
+            Move();
+            Zoom();
+        }
+    }
 
 	private void Move(){
 		FindAveragePosition ();

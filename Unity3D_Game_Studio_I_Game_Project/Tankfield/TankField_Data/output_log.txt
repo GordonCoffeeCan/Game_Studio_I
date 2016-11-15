@@ -1,0 +1,49 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980 Ti (ID=0x17c8)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Documents\NYU Game Design\Game_Studio_I\Unity3D_Game_Studio_I_Game_Project\Tankfield\TankField_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Documents\NYU Game Design\Game_Studio_I\Unity3D_Game_Studio_I_Game_Project\Tankfield\TankField_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Documents\NYU Game Design\Game_Studio_I\Unity3D_Game_Studio_I_Game_Project\Tankfield\TankField_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Documents\NYU Game Design\Game_Studio_I\Unity3D_Game_Studio_I_Game_Project\Tankfield\TankField_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Documents\NYU Game Design\Game_Studio_I\Unity3D_Game_Studio_I_Game_Project\Tankfield\TankField_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Documents\NYU Game Design\Game_Studio_I\Unity3D_Game_Studio_I_Game_Project\Tankfield\TankField_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Documents\NYU Game Design\Game_Studio_I\Unity3D_Game_Studio_I_Game_Project\Tankfield\TankField_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Documents\NYU Game Design\Game_Studio_I\Unity3D_Game_Studio_I_Game_Project\Tankfield\TankField_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Documents\NYU Game Design\Game_Studio_I\Unity3D_Game_Studio_I_Game_Project\Tankfield\TankField_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Documents\NYU Game Design\Game_Studio_I\Unity3D_Game_Studio_I_Game_Project\Tankfield\TankField_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+Platform assembly: D:\Documents\NYU Game Design\Game_Studio_I\Unity3D_Game_Studio_I_Game_Project\Tankfield\TankField_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Documents\NYU Game Design\Game_Studio_I\Unity3D_Game_Studio_I_Game_Project\Tankfield\TankField_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x2166 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.597248 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 30c8 -> priority: 1 
+  Thread -> id: 60 -> priority: 1 
+AlliesWin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.647364 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 575.
+Total: 0.324096 ms (FindLiveObjects: 0.030720 ms CreateObjectMapping: 0.022272 ms MarkObjects: 0.261376 ms  DeleteObjects: 0.009216 ms)
+
+AxisWins
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.502784 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 575.
+Total: 0.206080 ms (FindLiveObjects: 0.027648 ms CreateObjectMapping: 0.010240 ms MarkObjects: 0.162816 ms  DeleteObjects: 0.005120 ms)
+
